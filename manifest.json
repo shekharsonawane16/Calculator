@@ -1,15 +1,15 @@
 {
-  "name": "Calculator",
-  "short_name": "Calc",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#222",
-  "theme_color": "#43c6ac",
-  "icons": [
-    {
-      "src": "calculator.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+    "name": "Calculator",
+    "short_name": "Calc",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#191654",
+    "theme_color": "#43c6ac",
+    "icons": [
+        {
+            "src": "calculator.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
